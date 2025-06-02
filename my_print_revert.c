@@ -2,7 +2,6 @@ void print_char(char c);
 
 void my_print_revert(char *to_revert)
 {
-	return;
     int index = 0;
 
     while(to_revert[index])
